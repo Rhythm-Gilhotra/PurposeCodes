@@ -3,4 +3,4 @@ def multiplication(a,b):
 
 a = int(input())
 b = int(input())
-print(mult(a,b))
+print(multiplication(a,b))
